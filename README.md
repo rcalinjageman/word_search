@@ -5,6 +5,7 @@ You can see this in action here: https://dom.az1.qualtrics.com/jfe/form/SV_didJZ
 
 The easiest way to get started is to import this qualtrics survey which shows the task
    https://github.com/rcalinjageman/word_search/blob/master/Qualtrics_Word_Search_Task_-_Demo.qsf
+(click "raw" then download the file and then import it into your Qualtrics account)
 
 Details on how to use the task are embedded directly in the templates:
 * In custom headers, you set Qualtrics to point to the needed javascript
