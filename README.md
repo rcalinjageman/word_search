@@ -1,7 +1,7 @@
 # word_search
 A word-search task for use in qualtrics for psychology studies
 
-You can see this in action here: https://dom.az1.qualtrics.com/jfe/form/SV_didJZP14WPlvKPX
+You can see this in action here: https://dom.az1.qualtrics.com/jfe/form/SV_1MsS71ODB4uA7n7
 
 The easiest way to get started is to import this qualtrics survey which shows the task
    https://github.com/rcalinjageman/word_search/blob/master/Qualtrics_Word_Search_Task_-_Demo.qsf
